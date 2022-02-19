@@ -11,15 +11,11 @@ Sobre as tecnologias usadas nos tres desafios, foi utilizada a linguagem de prog
 
 Sobre as logicas utilizadas nas questoes:
 
-1 questão:
-A primeira questao foi resolvida utilizando loops for, com ifs para realizar o preenchimento de uma matriz de caracteres para "desenhar uma escada" com o numero de degrais designados pelo usuario
+  1 questão: A primeira questao foi resolvida utilizando loops for, com ifs para realizar o preenchimento de uma matriz de caracteres para "desenhar uma escada" com o numero de degrais designados pelo usuario
 
-2 Questão:
-Nesta questão foi utilizada a função matches para realizar a a validação da senha digitada para com os requisitos.
+  2 Questão: Nesta questão foi utilizada a função matches para realizar a a validação da senha digitada para com os requisitos.
 Para cada requisito foi criado um if, que ira incrementar um contador que sera utilizado em conjunto com uma variavel de suporte para exibir o numero de caracteres minimos que o usuario devera digitar para ter uma senha com todos os requisitos
 
-3 Questão:
-Para realizar a questão sobre anagramas foi utilizados hashmaps, e matrizes de caracteres.
+  3 Questão: Para realizar a questão sobre anagramas foi utilizados hashmaps, e matrizes de caracteres.
 Com a string digitada pelo usuario em mãos, a mesma foi divida em uma substring que foi arrumada/embaralhada e uma substring de suporte para podermos compararmos se houva algum "Anagrama" na palavra digitada pelo usuario.
-
 As substrings foram passadas para o map com a key no valor 1, usando a substring de apoio, cada vez que um "anagrama" foi encontrado, os caracteres correspondentes no hashmap tiveram sua key incrementada para 2.
