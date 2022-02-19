@@ -10,7 +10,8 @@
 Sobre as tecnologias usadas nos tres desafios, foi utilizada a linguagem de programação java, e a IDE VSCode.
 
 Sobre as logicas utilizadas nas questoes:
-! questão:
+
+1 questão:
 A primeira questao foi resolvida utilizando loops for, com ifs para realizar o preenchimento de uma matriz de caracteres para "desenhar uma escada" com o numero de degrais designados pelo usuario
 
 2 Questão:
